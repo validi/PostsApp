@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android" >
     <data>
         <variable
-            name="post"
+             name="post"
             type="com.aurora.postsapp.model.Post" />
     </data>
 
