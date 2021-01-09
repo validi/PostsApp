@@ -5,6 +5,7 @@
     <data>
         <variable
              name="post"
+
             type="com.aurora.postsapp.model.Post" />
     </data>
 
