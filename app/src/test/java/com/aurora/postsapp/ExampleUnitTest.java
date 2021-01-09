@@ -1,4 +1,4 @@
-package com.aurora.cuntriesapp;
+package com.aurora.postsapp;
 
 import org.junit.Test;
 
